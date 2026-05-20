@@ -21,11 +21,7 @@ date: "May 26, 2026"
   build careers in HPC.
   . . .
 * Compute Canada was a partner from 2014--2017, SciNet from
-  2018--2023, and the Alliance from 2025 onward.
-
-## Alliance Pilot Project
-
-Tania?
+  2018--2023, and the Alliance from 2025 onward as a Pilot.
 
 ## NTCC IHPCSS Working Group
 
@@ -136,7 +132,7 @@ Chris Loken, Olivier Fisette, Ross Dickson, Patrick Mann
 
 ## Evolving content
 
-  * The main focus remains large-scale HPC.
+  * The main focus of the IHPCSS remains large-scale HPC.
     . . .
   * Technical content is reviewed annually.
     . . .
@@ -160,7 +156,7 @@ Scott Callaghan et al. 2025. Fifteen Years of International HPC
 Summer School. In PEARC '25, ACM, New York, NY, USA, Article 17,
 1–8. ******<https://doi.org/10.1145/3708035.3736011>******
 
-## Impact
+## IHPCSS Impact
 
 * ~92% found that ******participants from other countries******
   enhanced their learning.
@@ -224,5 +220,5 @@ opportunity for these budding young researchers."
 
 * But it is worth it; demand is very high.
   . . .
-* Hoping for a multi-year training strategy that includes this event!    
+* Hoping for a multi-year training strategy that includes the IHPCSS!    
   (so we may bring it to Canada?)
